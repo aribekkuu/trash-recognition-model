@@ -4,9 +4,9 @@ The goal is to support smarter waste sorting systems and promote environmental s
 **Dataset** and **Labels** are from **Kaggle**.
 
 ## Tech
-**Languages:** Python 3.14
-**Frameworks:** Tensorflow, Keras, PyTorch
-**Libraries:** NumPy, Pandas, OpenCV, Pillow, Seaborn
+**Languages:** Python 3.14.
+**Frameworks:** Tensorflow, Keras, PyTorch.
+**Libraries:** NumPy, Pandas, OpenCV, Pillow, Seaborn.
 
 ## Quick Start
 ### In Google Colab or Jupyter
